@@ -28,7 +28,7 @@ public class UniversityQueryService {
 
     public UniversityQueryService(RestTemplateBuilder restTemplateBuilder) {
         restTemplate = restTemplateBuilder.build();
-    }
+    } 
 
     public static final String ENDPOINT = "http://universities.hipolabs.com/search?name={name}";
 

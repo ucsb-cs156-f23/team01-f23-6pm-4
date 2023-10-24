@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-f23/team01-f23-6pm-4
 owner: ucsb-cs156-f23
 repo_name: team01-f23-6pm-4
-pull_requests: [{"author":{"id":"U_kgDOB8FKHg","is_bot":false,"login":"shuyiwan","name":"Shuyi Wan"},"headRefName":"Shuyi-PublicHoliday-Controller","number":34,"title":"change the year example to 2000","url":"https://github.com/ucsb-cs156-f23/team01-f23-6pm-4/pull/34"}]
+pull_requests: [{"author":{"id":"MDQ6VXNlcjkwNjczMzc2","is_bot":false,"login":"dayvidwang","name":""},"headRefName":"David-Joke-Controller","number":35,"title":"fixed name of numJokes parameter","url":"https://github.com/ucsb-cs156-f23/team01-f23-6pm-4/pull/35"}]
